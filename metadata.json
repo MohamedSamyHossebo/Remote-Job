@@ -1,0 +1,6 @@
+{
+  "name": "Remote Job Scraper & Cover Letter Generator",
+  "description": "Monitors LinkedIn and Indeed for remote software engineering roles, manages saved searches, tracks application statuses, sends hourly Telegram updates, and generates AI cover letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
