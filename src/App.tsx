@@ -341,7 +341,7 @@ export default function App() {
       {/* Main Container */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8" id="main-content-layout">
         {/* Banner Alert if API key is not supplied (informational guidance) */}
-        {!process.env.GEMINI_API_KEY && (
+        {!geminiKeyInfo.hasKey && (
           <div className="bg-[#FFFDF5] border border-amber-200 p-4 rounded-sm flex items-start gap-3 text-[#5A4515]" id="apikey-warning-banner">
             <AlertCircle className="w-4 h-4 text-amber-600 shrink-0 mt-0.5" />
             <div className="text-xs space-y-1">

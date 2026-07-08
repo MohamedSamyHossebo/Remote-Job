@@ -1,0 +1,207 @@
+{
+  "searches": [
+    {
+      "id": "default-frontend",
+      "name": "Remote React Frontend Developer",
+      "roleType": "front-end",
+      "salaryMin": 90000,
+      "stackPreference": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "isActive": true,
+      "lastRun": "2026-07-08T21:27:42.951Z",
+      "error": null
+    },
+    {
+      "id": "default-backend",
+      "name": "Remote Node.js Backend Developer",
+      "roleType": "back-end",
+      "salaryMin": 100000,
+      "stackPreference": [
+        "Node.js",
+        "Express",
+        "TypeScript"
+      ],
+      "isActive": true,
+      "lastRun": "2026-07-08T21:27:43.080Z",
+      "error": null
+    },
+    {
+      "id": "search-1783546099406",
+      "name": "Front End",
+      "roleType": "front-end",
+      "salaryMin": null,
+      "stackPreference": [
+        "TypeScript",
+        "Angular"
+      ],
+      "isActive": true,
+      "lastRun": "2026-07-08T21:28:23.113Z",
+      "error": null
+    }
+  ],
+  "jobs": [
+    {
+      "id": "default-backend-fallback-1783546063080-2",
+      "title": "Staff Software Engineer (APIs)",
+      "company": "Clerk",
+      "platform": "LinkedIn",
+      "location": "Remote (Global / US)",
+      "summary": "Architect robust database schemas and high-throughput background processing nodes. Lead scalability initiatives across AWS/GCP nodes. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$100k - $130k",
+      "requiredStack": [
+        "Node.js",
+        "Express",
+        "TypeScript"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://clerk.com/careers",
+      "dateAdded": "2026-07-08T21:27:43.080Z",
+      "searchId": "default-backend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    },
+    {
+      "id": "default-frontend-fallback-1783545363557-0",
+      "title": "Senior Frontend Engineer",
+      "company": "HashiCorp",
+      "platform": "LinkedIn",
+      "location": "Remote (Global / US)",
+      "summary": "We are looking for a senior-level Frontend developer to build beautiful, responsive, and high-performance Web apps. You will collaborate closely with designers to implement clean components. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$90k - $120k",
+      "requiredStack": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://hashicorp.com/careers",
+      "dateAdded": "2026-07-08T21:16:03.557Z",
+      "searchId": "default-frontend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    },
+    {
+      "id": "default-frontend-fallback-1783545363557-1",
+      "title": "React Developer",
+      "company": "PostHog",
+      "platform": "Indeed",
+      "location": "Remote (Global / US)",
+      "summary": "Join our growth team to polish client-facing onboarding flows and optimize interactive dashboards. Heavy focus on state management and fast rendering loops. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$90k - $120k",
+      "requiredStack": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://posthog.com/careers",
+      "dateAdded": "2026-07-08T21:16:03.557Z",
+      "searchId": "default-frontend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    },
+    {
+      "id": "default-backend-fallback-1783545363669-0",
+      "title": "Backend Software Engineer",
+      "company": "Stripe",
+      "platform": "LinkedIn",
+      "location": "Remote (Global / US)",
+      "summary": "Seeking a backend engineer to design scalable APIs, optimize relational database queries, and coordinate event-driven microservices workflows. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$100k - $130k",
+      "requiredStack": [
+        "Node.js",
+        "Express",
+        "TypeScript"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://stripe.com/jobs",
+      "dateAdded": "2026-07-08T21:16:03.669Z",
+      "searchId": "default-backend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    },
+    {
+      "id": "default-frontend-fallback-1783545351910-0",
+      "title": "Senior Frontend Engineer",
+      "company": "Retool",
+      "platform": "LinkedIn",
+      "location": "Remote (Global / US)",
+      "summary": "We are looking for a senior-level Frontend developer to build beautiful, responsive, and high-performance Web apps. You will collaborate closely with designers to implement clean components. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$90k - $120k",
+      "requiredStack": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://retool.com/careers",
+      "dateAdded": "2026-07-08T21:15:51.910Z",
+      "searchId": "default-frontend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    },
+    {
+      "id": "default-frontend-fallback-1783545351910-1",
+      "title": "React Developer",
+      "company": "Vercel",
+      "platform": "Indeed",
+      "location": "Remote (Global / US)",
+      "summary": "Join our growth team to polish client-facing onboarding flows and optimize interactive dashboards. Heavy focus on state management and fast rendering loops. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$90k - $120k",
+      "requiredStack": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://vercel.com/careers",
+      "dateAdded": "2026-07-08T21:15:51.910Z",
+      "searchId": "default-frontend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    },
+    {
+      "id": "default-frontend-fallback-1783545351910-2",
+      "title": "Software Engineer - UI/UX",
+      "company": "Supabase",
+      "platform": "LinkedIn",
+      "location": "Remote (Global / US)",
+      "summary": "An opportunity to lead frontend architecture across our core products. Looking for a high-craft product thinker with deep React expertise. (Note: Dynamic fallback role matching criteria due to high API load/rate limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}})",
+      "salaryRange": "$90k - $120k",
+      "requiredStack": [
+        "React",
+        "TypeScript",
+        "Tailwind"
+      ],
+      "postDate": "Just now",
+      "originalUrl": "https://supabase.com/careers",
+      "dateAdded": "2026-07-08T21:15:51.910Z",
+      "searchId": "default-frontend",
+      "isTracked": false,
+      "status": "Bookmarked",
+      "notes": "Discovered via fallback telemetry nodes. Actual live search grounding hit quota limits: {\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]}]}}",
+      "coverLetter": null
+    }
+  ],
+  "telegramConfig": {
+    "botToken": "8931232809:AAGVMr4RxqExYGj3RgS6u19CT4-xRWkaYGM",
+    "chatId": "-1004401558723",
+    "isEnabled": true
+  },
+  "geminiApiKey": "AIzaSyCp8xWoFnYIQS1RZmJ4ptd4xxGj-3MPRYw"
+}
